@@ -1,6 +1,6 @@
-Craftdemo
+# Craftdemo
 
-Country Lookup CLI:
+## Country Lookup CLI:
 
 Please refer to the code in the 'cli-tool' directory for the Country Lookup CLI.
 
@@ -10,7 +10,7 @@ Output from my local:
 
 ![image](https://github.com/tswrk/craftdemo/assets/160464566/1477e8da-4463-4a02-9a36-73dca0e4d79d)
 
-Rest Service:
+## Rest Service:
 
 Please refer to the code in the 'rest-service' directory for the Rest Service.
 
